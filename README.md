@@ -8,6 +8,7 @@ Autor: Magalie YANG
 A graphic project where you play a First person Labyrinth's simulator using RayCasting's method.
 
 Maps are customizables, but all maps need to follows thoses rules:
+    
     -3: WALL WHICH IS THE ARRIVAL. (optional)
     -2: WALL WHICH MAKES DAMAGE. (optional)
     -1: BASIC WALL
