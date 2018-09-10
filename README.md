@@ -29,4 +29,5 @@ Maps are customizables, but all maps need to follows thoses rules:
       1 1 1 1 1
 
 Use Arrows keys for moving the character, if the player hits a lava wall, he'll lose some HP. If he hurts too much, it will be a game over.
+
 Use the "T" key for display or show textures.
