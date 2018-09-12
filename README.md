@@ -12,6 +12,7 @@ A graphic project where you play a First person Labyrinth's simulator using RayC
  
  # How install it?
 Firstly, you need the minilibX and the "project_libft"
+Use the "Makefile" file to compile and create the game
  
  # How use it?
 Maps are customizables, but all maps need to follows thoses rules:
