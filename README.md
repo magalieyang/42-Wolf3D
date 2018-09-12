@@ -5,8 +5,15 @@ Autor: Magalie YANG
 
 42's school Web project : "Wolf 3D"
 
-A graphic project where you play a First person Labyrinth's simulator using RayCasting's method.
+--------------------------------------------------------------------
 
+ # What it is?
+A graphic project where you play a First person Labyrinth's simulator using RayCasting's method.
+ 
+ # How install it?
+Firstly, you need the minilibX and the "project_libft"
+ 
+ # How use it?
 Maps are customizables, but all maps need to follows thoses rules:
     
     -3: WALL WHICH IS THE ARRIVAL. (optional)
